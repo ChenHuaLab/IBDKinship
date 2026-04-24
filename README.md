@@ -1,9 +1,5 @@
 # IBDKinship v1.0
 
-Contact Author: Hua Chen (chen_hua@fudan.edu.cn)
-
-Copyright (c) 2026 Institute of Forensic Science, Fudan University
-
 The tool is free for non-commercial usage. Please use at your own discretion. For commercial use please contact us.
 
 ## Run IBDKinship Program
